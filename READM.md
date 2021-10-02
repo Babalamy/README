@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Babalamy
+- 👀 I’m interested in blockchain 
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on any blockchain project
+- 📫 How to reach me ko.omidiji@gmail.com
