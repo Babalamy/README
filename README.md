@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Babalamy
+- 👀 I’m interested in blockchain and web3 app development
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on any blockchain projects
+- 📫 How to reach me: email me @ ko.omidiji@gmail.com
